@@ -1,0 +1,27 @@
+.Sea {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightblue;
+    text-align: center;
+} h1 {
+    font-size: 100px;
+    background: pink;
+    padding: 100px;
+    font-family:'Times New Roman', Times, serif;
+} h2 {
+    font-size: 50px;
+    color: lightblue;
+    text-align: center;
+} p {
+    font-size: 20px;
+    color: lightblue;
+    text-align: center;
+} .image-container img {
+    width: 100%;
+    height: auto;
+} .image-container {
+    display: flex;
+    justify-content: center;
+} .image-container img {
+    max-width: 100%;
+    height: auto;
+}
